@@ -17,10 +17,10 @@ import { NotFound } from './components/views/NotFound/NotFound';
 const theme = createMuiTheme({
   palette: {
     primary: {
-      light: '#757ce8',
-      main: '#e6ee9c',
-      dark: '#002884',
-      contrastText: '#827717',
+      light: '#b2dfdb',
+      main: '#26a69a',
+      dark: '#00796b',
+      contrastText: '#e0f2f1',
     },
     secondary: {
       light: '#ff7961',
