@@ -1,0 +1,11 @@
+@import '../../../styles/settings.scss';
+
+.bar {
+  display: flex;
+  justify-content: space-between;
+
+  .title {
+    text-transform: uppercase;
+  }
+
+}
